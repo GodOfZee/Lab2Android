@@ -18,4 +18,10 @@
     <string name="author_image2">Казимир Малевич</string>
     <string name="author_image3">Винсент Ван Гог</string>
     <string name="author_image4">Сальвадор Дали</string>
+
+    <!-- Descriptions -->
+    <string name="description_image1">Женщина с тёмными волосами сидит в кресле на фоне туманного горного пейзажа. Руки сложены, на лице лёгкая улыбка.</string>
+    <string name="description_image2">Большой чёрный четырёхугольник с неровными краями на белом прямоугольном поле.</string>
+    <string name="description_image3">Ночное небо с жёлтыми звёздами и луной закручивается спиралями над тёмным городом. На переднем плане высокий тёмный кипарис.</string>
+    <string name="description_image4">На пустынном берегу лежат мягкие, стекающие карманные часы. На земле — странное спящее существо, на ветке дерева — ещё одни часы.</string>
 </resources>

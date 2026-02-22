@@ -1,8 +1,5 @@
 package com.example.lab2android
 
-import androidx.annotation.DrawableRes
-import androidx.annotation.StringRes
-
 data class Artwork(
     val titleRes: Int,
     val descRes: Int,

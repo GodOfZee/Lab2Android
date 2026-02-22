@@ -22,5 +22,8 @@
     <string name="author_image4">Salvador Dali</string>
 
     <!-- Descriptions -->
-
+    <string name="description_image1">A woman with dark hair sits in a chair before a misty mountain landscape. Her hands are folded, and she has a faint smile.</string>
+    <string name="description_image2">A large black quadrilateral with uneven edges on a white rectangular field.</string>
+    <string name="description_image3">A night sky with yellow stars and a moon swirls in spirals above a dark town. A tall, dark cypress tree stands in the foreground.</string>
+    <string name="description_image4">Soft, melting pocket watches lie on a deserted shore. A strange sleeping creature is on the ground, and another watch hangs from a tree branch.</string>
 </resources>
