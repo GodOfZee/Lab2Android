@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_spacer">15.dp</dimen>
+    <dimen name="size_button_height">40.dp</dimen>
+    <dimen name="size_button_width">150.dp</dimen>
+    <dimen name="size_image_small">300.dp</dimen>
+
+    <dimen name="padding">20.dp</dimen>
+
+    <dimen name="font_size_medium">15.sp</dimen>
+    <dimen name="font_size_large">20.sp</dimen>
+</resources>

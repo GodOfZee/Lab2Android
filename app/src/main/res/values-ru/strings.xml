@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab2Android</string>
+    <!-- Кнопки -->
+    <string name="button_text_next">Следующее</string>
+    <string name="button_text_previous">Предыдущее</string>
+    <string name="button_description_next">Кнопка следующее изображение</string>
+    <string name="button_description_previous">Кнопка предыдущее изображение</string>
+
+    <!-- Изображения -->
+    <string name="title_image1">Мона Лиза, Джоконда</string>
+    <string name="title_image2">Чёрный Квадрат</string>
+    <string name="title_image3">Звёздная ночь</string>
+    <string name="title_image4">Постоянство памяти</string>
+
+    <!-- Авторы -->
+    <string name="author">Автор</string>
+    <string name="author_image1">Леонардо да Винчи</string>
+    <string name="author_image2">Казимир Малевич</string>
+    <string name="author_image3">Винсент Ван Гог</string>
+    <string name="author_image4">Сальвадор Дали</string>
 </resources>

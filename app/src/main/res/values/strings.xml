@@ -1,3 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab2Android</string>
+    <string name="app_name" translatable="false">Art Space</string>
+
+    <!-- Buttons -->
+    <string name="button_text_next">Next</string>
+    <string name="button_text_previous">Previous</string>
+    <string name="button_description_next">Next image button</string>
+    <string name="button_description_previous">Previous image button</string>
+
+    <!-- Images -->
+    <string name="title_image1">Mona Lisa, La Gioconda</string>
+    <string name="title_image2">Black Square</string>
+    <string name="title_image3">Starry Night</string>
+    <string name="title_image4">The Persistence of Memory</string>
+
+    <!-- Authors -->
+    <string name="author">Author</string>
+    <string name="author_image1">Leonardo da Vinci</string>
+    <string name="author_image2">Kasimir Malevich</string>
+    <string name="author_image3">Vincent Van Gogh</string>
+    <string name="author_image4">Salvador Dali</string>
+
+    <!-- Descriptions -->
+
 </resources>
